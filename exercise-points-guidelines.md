@@ -47,9 +47,7 @@ TAMK requires students to use **AI-based applications responsibly and ethically*
 
 - Students **must mention** the use of AI in any **submitted assignment or thesis**
   and **describe how the tool was used**.
-- It is **fraudulent** to:
-  - Present **AI-generated** text, images, or other output as **your own work**.
-  - Use AI in a way that **disrupts** or **harms** others.
+- It is **fraudulent** to present **AI-generated** text, images,or other output as **your own work**.
 
 Cases of **fraud** will be handled according to **TAMK's general guidelines**.
 
