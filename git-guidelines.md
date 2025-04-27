@@ -69,12 +69,12 @@ If having **merge conflicts**:
 
 # Summary Comparison
 
-| Method                       | Sync Fork Button | Manual Pull Request                        |
-| ---------------------------- | ---------------- | ------------------------------------------ |
-| Works if no conflicts        | ✅               | ✅                                         |
-| Works if there are conflicts | ❌ Fails         | ✅ Allows editing conflicts in the browser |
-| Flexibility                  | 🚫 Auto-only     | ✅ Full control over what gets merged      |
-| Merge commit message         | Automatic        | Student can write their own commit message |
+| Method               | Sync Fork Button | Manual Pull Request                        |
+| -------------------- | ---------------- | ------------------------------------------ |
+| No conflicts         | ✅               | ✅                                         |
+| Conflicts            | ❌ Fails         | ✅ Allows editing conflicts in the browser |
+| Flexibility          | 🚫 Auto-only     | ✅ Full control over what gets merged      |
+| Merge commit message | Automatic        | Student can write their own commit message |
 
 ---
 
