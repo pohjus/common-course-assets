@@ -67,7 +67,14 @@ If having **merge conflicts**:
    - compare: pohjus/main (upstream)
 6. This creates a pull request from upstream into the fork — essentially asking to pull the changes from the original repo into the fork.
 
-![](images/merge-conflict-resolve.png)
+# Summary Comparison
+
+| Method                       | Sync Fork Button | Manual Pull Request                        |
+| ---------------------------- | ---------------- | ------------------------------------------ |
+| Works if no conflicts        | ✅               | ✅                                         |
+| Works if there are conflicts | ❌ Fails         | ✅ Allows editing conflicts in the browser |
+| Flexibility                  | 🚫 Auto-only     | ✅ Full control over what gets merged      |
+| Merge commit message         | Automatic        | Student can write their own commit message |
 
 ---
 
