@@ -3,11 +3,14 @@
 ## **1. Attendance and Punctuality**
 
 - Arrive **on time** for lectures.
-- **Within the first 15 minutes** of the lecture:
+- Usually in your calendar lecture is marked to start at 9.00 or 12.30. Our
+  lectures start at 8.45 and 12.15 (15 minutes earlier) despite of the calendar.
+- **Within the first 15 minutes** of the lecture (for example 8.45-9.00):
   - Mark your physical presence in the provided **Google Sheet**.
   - **Important:** Only mark yourself present if you are physically in class.
-- After **15 minutes**, the **Google Sheet will be locked**, and attendance cannot be marked.
-- **Latecomers** will not be able to register their attendance.
+- After **15 minutes**, for example at 9.00, the **Google Sheet will be locked**, and attendance cannot be marked.
+- **Latecomers** will not be able to register their attendance. For example, if you come
+  to class at 9.01, you are 16 minutes late and not entitled to points.
 - **Push exercises** to **GitHub** before the deadline.
 
 ---
