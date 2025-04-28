@@ -31,6 +31,7 @@
 - **All assignments must be your own original work.**
 - You may **seek assistance** from other students or AI, but **copying and pasting** are strictly prohibited.
 - **Do not rely solely on AI** to complete your assignments.
+- If you cannot explain your work, it raises a suspicion of plagiarism.
 - The teacher may use **plagiarism detection software**.
   - **Plagiarized assignments** may be considered **fraudulent activity**.
 
