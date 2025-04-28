@@ -42,6 +42,8 @@
 - If you have a **valid reason** (e.g., doctor’s appointment) for missing a lecture,
   **notify the teacher** **before the lecture begins**.
   - This allows you to submit your assignment **remotely**.
+- Your own holiday trips for example is not a valid reason for skipping classes.
+- You cannot be more than 30% away of the classes.
 
 ---
 
