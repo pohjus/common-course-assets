@@ -53,10 +53,11 @@ To facilitate effective and efficient communication on Slack, especially regardi
 - **Initial Research:** Try solving the problem yourself using documentation or search engines.
 - **Be Patient:** Helpers have their own tasks and responsibilities.
 - **Reproducibility:** Give exact steps to reproduce the issue, including necessary commands like:
+- **Example**:
 
-  ```sh
-  git clone https://url-to-repository && cd path/to/assignment && compile-command && run-command
-  ```
+```sh
+git clone https://url-to-repository && cd path/to/assignment && compile-command && run-command
+```
 
 ---
 
